@@ -19,3 +19,9 @@ print("Element-wise Subtraction:", sub_result)
 # Element-wise division
 div_result = A / B
 print("Element-wise Division:", div_result)
+
+# This outputs:
+# Element-wise Addition: [12 13 14 15 16]
+# Element-wise Multiplication: [30 56 72 72 50]
+# Element-wise Subtraction: [-4 -2  0  2  4]
+# Element-wise Division: [0.2 0.5 1.  2.  5. ]
